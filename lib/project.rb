@@ -11,4 +11,4 @@ class Project
     backer.back_project(self) unless backer.backed_projects.include?(self)
   end
 end
-© 2019 GitHub, Inc.
+ 
